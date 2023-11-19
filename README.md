@@ -1,6 +1,11 @@
 # SWIFTlabAdditionalEx
 Additional program for my SWIFT class lab
+
+
 English translation of the task given
+
+
+
 Task 3.6. Create a console application – perimeter and area of a rectangle
 Command 1. Create a program that will read the dimensions of a rectangle from the user and then create a string that will display these dimensions, its perimeter and area.
 Command 2. Check if the program works
