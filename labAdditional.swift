@@ -2,7 +2,7 @@
 //  main.swift
 //  SWIFTlab4
 //
-//  Created by admin on 11/18/23.
+//  Created by Aleksandra Olejarz on 11/18/23.
 //
 
 import Foundation
